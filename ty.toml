@@ -1,0 +1,5 @@
+[environment]
+extra-paths = [
+  "./mast3r/dust3r",       # for `import dust3r`
+]
+python = "../.pixi/envs/default"
